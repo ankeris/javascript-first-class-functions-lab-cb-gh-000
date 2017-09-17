@@ -1,7 +1,10 @@
+function multiplierValue() {
+  return multiplierValue.value;
+}
+var doubler = createMultiplier(number){
+return number * 2;
+}
 
-function countdown(){
-  setTimeout(callback, 2000);
-  function callback(){
-  }
-  done();
-};
+var tripler = createMtp(number){
+  return number * 3;
+}
