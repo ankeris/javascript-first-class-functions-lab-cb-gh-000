@@ -5,3 +5,4 @@ function countdown(){
 
 function callback(){
 }
+done();
