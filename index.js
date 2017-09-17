@@ -1,5 +1,5 @@
-function multiplierValue(1) {
-  return multiplierValue.value;
+function multiplierValue() {
+  return 2;
 }
 var doubler = createMultiplier(number){
 return number * 2;
