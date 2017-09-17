@@ -1,4 +1,4 @@
-function multiplierValue() {
+function multiplierValue(1) {
   return multiplierValue.value;
 }
 var doubler = createMultiplier(number){
